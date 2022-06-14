@@ -1,0 +1,29 @@
+.login-container {
+    background-image: url(../../assests/images/lib.jfif);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.login-container-box {
+    background-color: wheat;
+    height: 300px;
+    width: 350px;
+    border: 1px solid royalblue;
+    margin-top: 50px;
+    text-align: justify;
+    
+    
+}
+.bt{
+     background-color: yellow;
+    text-align:center;
+     margin-left:70px;
+     padding:1px;
+     width: 100px;
+}
+.img
+{
+    width:100px;
+    height:100px;
+}
